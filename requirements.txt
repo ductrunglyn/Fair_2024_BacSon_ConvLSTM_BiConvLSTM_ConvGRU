@@ -1,0 +1,6 @@
+numpy==1.26.4
+keras==2.15.0
+opencv-python==4.8.0.76
+tensorflow_addons==0.22.0
+deap==1.4.1
+tensorflow==2.15.0
